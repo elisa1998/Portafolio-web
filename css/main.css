@@ -137,9 +137,19 @@ margin: 20px 30px 20px 0px;
   text-align: justify;
   margin: 12px;
   padding: 12px;
+
 }
 
+#quote{
+  text-align: center !important;
+  font-size: 22px;
+  padding-top: 10% !important;
+}
 
+i{
+  color: #8e4b39;
+
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
