@@ -154,6 +154,124 @@ i{
 h1{
   padding-top: 15px;
 }
+
+
+.contact{
+  background: #8e4b39;
+  color: #d5d8dc;
+}
+
+h3{
+  align-content: center;
+  margin-left: 0 !important;
+
+}
+
+h3{
+}
+
+h1,h2{
+	font-weight: 300;
+}
+
+.contact i{
+  color: #d5d8dc;
+}
+
+b{
+	font-weight: 700;
+}
+
+.portrait{
+  width: 600px;
+  height: 600px;
+  background: url(../img/contacto.jpg) center center;
+  border-radius: 600px;
+  margin-left: 300px;
+}
+
+
+
+h3{
+  margin-left: 50px;
+  margin-top: 100px;
+}
+
+.info{
+  text-align: left;
+}
+
+i{
+  text-align-last: bottom 
+  margin-top: 50px;
+}
+
+.arte{
+  background: #8e4b39;
+  color: #d5d8dc;
+}
+
+.arte i{
+  color: #d5d8dc;
+}
+
+.arte img{
+  width: 100%;
+  max-width: 100%;
+  margin-top: 50px;
+  height: center; 
+}
+
+h3{
+  padding-top: : 300px;
+}
+
+.foto img{
+  width: 100%;
+  max-width: 100%;
+  margin-top: 50px;
+}
+
+.box{
+  width: 100%;
+  height: 200px;
+  background: #934338;
+  color: #d6d7d9;
+  text-align: center; 
+}
+
+.box h3{
+  padding-top: 80px;
+}
+
+.margin{
+  margin-top: -70px;
+}
+
+
+.inicio a, .foto a {
+  color: #934338;
+  text-decoration: none;
+}
+.trabajo a{
+  color: #d6d7d9;
+  text-decoration: none;
+}
+
+.arte a, .contact a{
+  color: #d6d7d9;
+  text-decoration: none;
+}
+
+
+a:hover{
+  color: grey;
+  text-decoration: none;
+  transition: .5s ease;
+}
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
